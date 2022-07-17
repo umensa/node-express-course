@@ -1,0 +1,1 @@
+Great! console log that : This is the first text file This is the second text fileGreat! save these : This is the first text file This is the second text fileGreat! save these : This is the first text file This is the second text file
